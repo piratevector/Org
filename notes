@@ -1,0 +1,2 @@
+An iterator can be read into a list using list(iterator) instead of
+instantiating a list and using a for loop: x in contents.append(x)
